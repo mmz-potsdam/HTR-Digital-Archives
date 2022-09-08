@@ -1,2 +1,2 @@
 # HTR-Digital-Archives
-Data for applying HTR to Digital Archives e.g.
+Data for HTR-projects at the hackathon

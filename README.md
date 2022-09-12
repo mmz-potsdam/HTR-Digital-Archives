@@ -2,9 +2,10 @@
 ## Data for HTR-projects at the hackathon
 
 
-### Korresondenz Leopold und Adelheid Zunz (1844) 
-[Nachlass Leopold Zunz](http://www.jewish-archives.org/nav/classification/11171)
-[http://www.jewish-archives.org/nav/classification/112713](http://www.jewish-archives.org/nav/classification/112713)
+### [Nachlass Leopold Zunz](http://www.jewish-archives.org/nav/classification/11171)
+* contains among other collections [Korrespondenz Leopold und Adelheid Zunz](http://www.jewish-archives.org/nav/classification/112713)
+
+If you get a Server Error accessing the above links with Firefox, Chrome might work (we contacted the host asking if it is possible to fix this issue).
 
 ### Generalfiskalat (Bestandsaufnahme der in den preußischen Provinzen lebenden Juden) 1770-1810
 [Anfertigung der Generaljudentabellen von sämtlichen Provinzen ohne Schlesien](https://dfg-viewer.de/show?set[image]=1&set[debug]=0&set[mets]=https%3A%2F%2Farchivdatenbank.gsta.spk-berlin.de%2Fmidosasearch-gsta%2FMidosaSEARCH%2Fi_ha_rep_104%2Fmets%2FI.%2520HA%2520Rep.%2520104%252C%2520IV%2520A%2520Nr.%2520377%2Fxml_with_content.xml%2FGStA_i_ha_rep_104_3_1_2%2FGStA_i_ha_rep_104_I_HA_Rep_104_IV_A_Nr_377%2FI.%2520HA%2520Rep.%2520104%252C%2520IV%2520A%2520Nr.%2520377%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520)

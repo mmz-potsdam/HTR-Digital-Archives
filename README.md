@@ -1,6 +1,6 @@
 # HTR-Digital-Archives
-## Data for HTR-projects at the hackathon
 
+## Data for HTR-projects at the hackathon
 
 ### [Nachlass Leopold Zunz](http://www.jewish-archives.org/nav/classification/11171)
 * contains among other collections [Korrespondenz Leopold und Adelheid Zunz](http://www.jewish-archives.org/nav/classification/112713)
@@ -18,8 +18,7 @@ If you get a Server Error accessing the above links with Firefox, Chrome might w
 
 [Beschreibung_Signatur_Datensätze.docx](https://github.com/mmz-potsdam/HTR-Digital-Archives/files/9547398/Beschreibung_Signatur_Datensatze.docx)
 
-Geheimes Staatsarchiv Preußischer Kulturbesitz
-I. HA Rep. 104
-Generalfiskalat
-(1644) 1703 - 1819
-Berlin
+Geheimes Staatsarchiv Preußischer Kulturbesitz, I. HA Rep. 104, Generalfiskalat, (1644) 1703 - 1819, Berlin
+
+### [Friedhofsregister der jüdischen Gemeinde zu Strelitz (1740–1923)](https://sprache.hypotheses.org/2281)
+* Transkription (manuell oder mit HTR) und Übersetzung der Anmerkung in hebräischer Sprache bedürfen noch freiwilligen Helferinnen und Helfern

@@ -1,6 +1,6 @@
-# HTR-Digital-Archives
+# Apply HTR to Digital Archives
 
-## Data for HTR-projects at the hackathon
+Archival material on 18th/19th century German-Jewish history has been digitized in the past years. This valuable material doesn’t get the attention it deserves, since the hand-written isn’t easily readable for lay-people and doesn’t allow for fulltext search. Applying HTR-models to make these documents searchable would make them much more accessible.
 
 ### [Nachlass Leopold Zunz](http://www.jewish-archives.org/nav/classification/11171)
 * contains among other collections [Korrespondenz Leopold und Adelheid Zunz](http://www.jewish-archives.org/nav/classification/112713)

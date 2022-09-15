@@ -20,9 +20,10 @@ Source: Geheimes Staatsarchiv Preußischer Kulturbesitz, I. HA Rep. 104, General
 
 If you get a Server Error accessing the above links with Firefox, Chrome might work (we contacted the host asking if it is possible to fix this issue).
 
-### [Friedhofsregister der jüdischen Gemeinde zu Strelitz (1740–1923)](https://sprache.hypotheses.org/2281)
-* Transkription (manuell oder mit HTR) und Übersetzung der Anmerkung in hebräischer Sprache bedürfen noch freiwilligen Helferinnen und Helfern
-
 ### [The Edward Blank YIVO Vilna Online Collections/Germany (Vilna Archives) Collection](https://archives.cjh.org/repositories/7/resources/3613?sa=D&source=editors&ust=1642452199574426&usg=AOvVaw3NParKMj7KzOxlgiJ62Znl)
 The Germany (Vilna Archives) Collection contains materials of diverse provenances pertaining to Jewish life in Germany, and, to a lesser extent, other German-speaking areas of central Europe (Austria, Bohemia, Moravia), from the 16th century until the beginning of the Second World War. It includes correspondence, financial records, official documents, business records, writings, minutes, reports, book catalogs, printed ephemera, occasional clippings, and a handful of photographs. The writings include sermons, eulogies, poems, essays, and, in one instance, a diary 
 * [the entire germany collection](https://dh-jewish.zulipchat.com/user_uploads/32724/AzcAB1YmJsKK1sg0VAPu8O1x/RG31-Germany.pdf)
+
+### [Friedhofsregister der jüdischen Gemeinde zu Strelitz (1740–1923)](https://sprache.hypotheses.org/2281)
+* Transkription (manuell oder mit HTR) und Übersetzung der Anmerkung in hebräischer Sprache bedürfen noch freiwilligen Helferinnen und Helfern
+
